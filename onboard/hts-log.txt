@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Sat, 12 Mar 2022 11:25:09 at https://themes.3rdwavemedia.com/onboard/bs5/
+(httrack https://themes.3rdwavemedia.com/onboard/bs5/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 seconds : 31 links scanned, 30 files written (2770226 bytes overall) [1704883 bytes received at 51663 bytes/sec], 1590633 bytes transferred using HTTP compression in 12 files, ratio 32%, 10.3 requests per connection
+(No errors, 0 warnings, 0 messages)

@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Sat, 12 Mar 2022 11:42:15 at https://themes.3rdwavemedia.com/devstudio/bs5/
+(httrack https://themes.3rdwavemedia.com/devstudio/bs5/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:44:17	Error: 	"Not Found" (404) at link https://themes.3rdwavemedia.com/devstudio/bs5/+0800123456 (from https://themes.3rdwavemedia.com/devstudio/bs5/)
+11:44:17	Error: 	"Not Found" (404) at link https://themes.3rdwavemedia.com/devstudio/bs5/assets/plugins/jquery-3.4.1.min.js (from https://themes.3rdwavemedia.com/devstudio/bs5/404.html)
+11:44:17	Error: 	"Not Found" (404) at link https://themes.3rdwavemedia.com/devstudio/bs5/assets/plugins/back-to-top.js (from https://themes.3rdwavemedia.com/devstudio/bs5/404.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 3 seconds : 118 links scanned, 114 files written (7372683 bytes overall) [5988184 bytes received at 48684 bytes/sec], 2030171 bytes transferred using HTTP compression in 27 files, ratio 30%, 23.6 requests per connection
+(3 errors, 0 warnings, 0 messages)

@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Sat, 12 Mar 2022 11:47:46 at https://themes.3rdwavemedia.com/instance/bs5/
+(httrack https://themes.3rdwavemedia.com/instance/bs5/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:49:47	Error: 	"Not Found" (404) at link https://themes.3rdwavemedia.com/instance/bs5/assets/plugins/jquery-social-share-bar/js/jquery-social-share-bar.js (from https://themes.3rdwavemedia.com/instance/bs5/blog-post.html)
+11:49:47	Error: 	"Not Found" (404) at link https://themes.3rdwavemedia.com/instance/bs5/assets/js/social-share-bar.js (from https://themes.3rdwavemedia.com/instance/bs5/blog-post.html)
+11:49:47	Error: 	"Not Found" (404) at link https://themes.3rdwavemedia.com/instance/bs5/assets/images/webdev-icons/dessin-1.svg (from https://themes.3rdwavemedia.com/instance/bs5/assets/images/webdev-icons/python.svg)
+11:49:47	Error: 	"Not Found" (404) at link https://themes.3rdwavemedia.com/instance/bs5/assets/images/webdev-icons/Logo-Ruby.svg (from https://themes.3rdwavemedia.com/instance/bs5/assets/images/webdev-icons/ruby.svg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 1 seconds : 116 links scanned, 111 files written (6454435 bytes overall) [5123069 bytes received at 42339 bytes/sec], 1969444 bytes transferred using HTTP compression in 29 files, ratio 30%, 19.3 requests per connection
+(4 errors, 0 warnings, 0 messages)
