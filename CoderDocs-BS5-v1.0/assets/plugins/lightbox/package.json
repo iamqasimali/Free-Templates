@@ -23,8 +23,8 @@
   },
   "license": "MIT",
   "scripts": {
-    "build": "NODE_ENV=production webpack --config webpack.config.js -p",
-    "start": "node api.js && NODE_ENV=development webpack-serve --open --no-clipboard --content ./ --config webpack.config.js --hot --colors --inline"
+    "build": "node init && NODE_ENV=production webpack --config webpack.config.js -p",
+    "start": "node init && NODE_ENV=development webpack-serve --open --no-clipboard --content ./ --config webpack.config.js --hot --colors --inline"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
